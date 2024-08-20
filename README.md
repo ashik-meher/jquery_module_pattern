@@ -1,0 +1,1 @@
+# jquery_module_pattern
